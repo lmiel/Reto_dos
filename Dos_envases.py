@@ -10,5 +10,5 @@ def diferencia(a,b,c):
     
     return resultado
 
-print(diferencia(17,4,3 ))
+print(diferencia(17,4,3))
     
